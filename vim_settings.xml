@@ -1,0 +1,200 @@
+<application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="showingCurrentLine" value="false" />
+  </component>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1559793956296">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Learning" timestamp="1559542265145">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/3/g-subj/g-rn/eh-build-a-rn-app--/g-wf/wf01/RestaurantReview/App.js" timestamp="1559794180895">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Navigation.java" timestamp="1559540503647">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+      </file>
+      <file name="/App.js" timestamp="1559794157712">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/node-test/repl.js" timestamp="1559522621491">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/3/g-authors/Basarat/course/eh-use-typescript-to-develop-react-applications/wf/tsconfig.json" timestamp="1559712294051">
+        <mark key="'" line="12" column="6" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/3/g-authors/Basarat/course/eh-use-typescript-to-develop-react-applications/wf/src/03-00-.tsx" timestamp="1559708656820">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="19" column="13" filename="$USER_HOME$/3/g-subj/g-rn/eh-build-a-rn-app--/g-wf/wf01/RestaurantReview/App.js" />
+      <jump line="9" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Refactorings.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Refactorings.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/LearnProject/src/Navigation.java" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Learning" />
+      <jump line="6" column="10" filename="$USER_HOME$/3/g-authors/Basarat/course/eh-use-typescript-to-develop-react-applications/wf/tsconfig.json" />
+      <jump line="7" column="10" filename="$USER_HOME$/3/g-authors/Basarat/course/eh-use-typescript-to-develop-react-applications/wf/tsconfig.json" />
+      <jump line="12" column="6" filename="$USER_HOME$/3/g-authors/Basarat/course/eh-use-typescript-to-develop-react-applications/wf/tsconfig.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="*" type="4">
+        <text>''</text>
+      </register>
+      <register name="-" type="4">
+        <text>const</text>
+      </register>
+      <register name="/" type="4">
+        <text>emmit</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRpdgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHtkZWJ1Z2dlclN0YXRlbWVudH0gZnJvbSAiQGJhYmVsL3R5cGVzIjsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtkZWJ1Z2dlclN0YXRlbWVudH0gZnJvbSAiQGJhYmVsL3R5cGVzIjsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IGE6IHN0cmluZzsKYSA9ICcxJzsKYSA9IDE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVidWdnZXJTdGF0ZW1lbnQoKWRkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bGV0IGE6IHN0cmluZzsKYSA9ICcxJzsKYSA9IDE7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>''</text>
+      </register>
+      <register name="7" type="4">
+        <text>es6</text>
+      </register>
+      <register name="8" type="4">
+        <text>''</text>
+      </register>
+      <register name="9" type="4">
+        <text>dom</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>emmit</last-search>
+      <last-offset />
+      <last-pattern>emmit</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>deviceName</entry>
+        <entry>cellphone</entry>
+        <entry>emmit</entry>
+      </history-search>
+      <history-cmd>
+        <entry>help</entry>
+        <entry>h gd</entry>
+        <entry>q!</entry>
+        <entry>actionlist declation</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
