@@ -16,11 +16,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/3/g-subj/g-rn/eh-build-a-rn-app--/g-wf/wf01/RestaurantReview/App.js" timestamp="1559794180895">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/3/g-subj/g-rn/eh-build-a-rn-app--/g-wf/wf01/RestaurantReview/App.js" timestamp="1559796667038">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/LearnProject/src/Navigation.java" timestamp="1559540503647">
         <mark key="[" line="24" column="36" />
@@ -72,7 +73,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>emmit</text>
@@ -81,31 +82,31 @@
         <text encoding="base64">ICAgIGRpdgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtkZWJ1Z2dlclN0YXRlbWVudH0gZnJvbSAiQGJhYmVsL3R5cGVzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtkZWJ1Z2dlclN0YXRlbWVudH0gZnJvbSAiQGJhYmVsL3R5cGVzIjsK</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17ewogICAgICAgIHBhZGRpbmc6IDQwLAogICAgICAgIGZyb250U2l6ZTogMzAsCiAgICAgICAgdGV4dEFsaWduOiAnY2VudGVyJwogICAgICB9fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGE6IHN0cmluZzsKYSA9ICcxJzsKYSA9IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdnZXJTdGF0ZW1lbnQoKWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGE6IHN0cmluZzsKYSA9ICcxJzsKYSA9IDE7Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHtQbGF0Zm9ybSwgU3R5bGVTaGVldCwgVGV4dCwgVmlld30gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
       </register>
-      <register name="6" type="4">
-        <text>''</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gY29uc3QgaW5zdHJ1Y3Rpb25zID0gUGxhdGZvcm0uc2VsZWN0KHsKLy8gICBpb3M6ICdQcmVzcyBDbWQrUiB0byByZWxvYWQsXG4nICsgJ0NtZCtEIG9yIHNoYWtlIGZvciBkZXYgbWVudScsCi8vICAgYW5kcm9pZDoKLy8gICAgICdEb3VibGUgdGFwIFIgb24geW91ciBrZXlib2FyZCB0byByZWxvYWQsXG4nICsKLy8gICAgICdTaGFrZSBvciBwcmVzcyBtZW51IGJ1dHRvbiBmb3IgZGV2IG1lbnUnLAovLyB9KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>es6</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicsCiAgfSwKICB3ZWxjb21lOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbWFyZ2luOiAxMCwKICB9LAogIGluc3RydWN0aW9uczogewogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIGNvbG9yOiAnIzMzMzMzMycsCiAgICBtYXJnaW5Cb3R0b206IDUsCiAgfSwKfSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>''</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICA8L1ZpZXc+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dom</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLndlbGNvbWV9PlJlc3RhdXJhbnQgUmV2aWV3PC9UZXh0PgogICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT57aW5zdHJ1Y3Rpb25zfTwvVGV4dD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
